@@ -1,7 +1,9 @@
 This is my rainbow poem
-
+red
 orange
 yellow
 green
+blue
+purple
 
 das farbe des bogens regens
